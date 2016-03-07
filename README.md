@@ -1,4 +1,4 @@
-# [Bootstrap Ocean](http://www.bootstrapocean.com/) - [Bootstrap 3 Column Filtered Portfolio](http://www.bootstrapocean.com/theme/theme/preview/bootstrapocean-3col-portfolio-filtered/)
+# [Bootstrap Ocean](http://www.bootstrapocean.com/) - [Bootstrap 3 Columns Filtered Portfolio](http://www.bootstrapocean.com/theme/theme/preview/bootstrapocean-3col-portfolio-filtered/)
 
 [3 Col Portfolio](http://www.bootstrapocean.com/theme/preview/bootstrapocean-3col-portfolio-filtered/) is a two column portfolio template for [Bootstrap](http://www.bootstrapocean.com/) created by [Bootstrap Ocean](http://www.bootstrapocean.com/).
 
